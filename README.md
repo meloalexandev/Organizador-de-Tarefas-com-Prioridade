@@ -86,7 +86,7 @@ A aplicação iniciará na porta 8080.
 - Spring Validation
 - H2 Database
 - Lombok
-- Spring AI (OpenAI integration - não implementado)
+
 
 ## 🤝 Contribuição
 1. Fork o projeto
