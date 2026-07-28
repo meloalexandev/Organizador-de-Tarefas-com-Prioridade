@@ -63,11 +63,7 @@
             <artifactId>spring-boot-starter-validation</artifactId>
         </dependency>
 
-        <!-- Spring AI - OpenAI -->
-        <dependency>
-            <groupId>org. springframework.ai</groupId>
-            <artifactId>spring-ai-starter-openai</artifactId>
-        </dependency>
+       
 
         <!-- Database -->
         <dependency>
